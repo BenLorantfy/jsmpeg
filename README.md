@@ -1,4 +1,4 @@
-Note: This is a fork of phoboslab/jsmpeg with a package.json file so can easily be installed with npm. You can install it using `npm install git+https://git@github.com/BenLorantfy/jsmpeg.git`
+Note: This is a fork of phoboslab/jsmpeg with a package.json file so it can easily be installed with npm. You can install it using `npm install git+https://git@github.com/BenLorantfy/jsmpeg.git`
 
 # JSMpeg – MPEG1 Video & MP2 Audio Decoder in JavaScript
 
